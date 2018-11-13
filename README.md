@@ -26,6 +26,8 @@ The following dependencies were added to fix a bug.
 </dependency>
 ```
 
+# Contributors
+
 - Pablo Barreno
 - Rudy Garrido
 - Bryan Chan
