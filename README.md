@@ -25,3 +25,7 @@ The following dependencies were added to fix a bug.
     <version>1.6.4</version>
 </dependency>
 ```
+
+- Pablo Barreno
+- Rudy Garrido
+- Bryan Chan
