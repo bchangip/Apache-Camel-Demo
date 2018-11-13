@@ -7,3 +7,18 @@ Every commit to the master branch on this repo (https://github.com/bchangip) sho
 # Components used
 - Github
 - Twitter
+
+# Notes
+The following dependencies were added to fix a bug.
+```
+<dependency>
+    <groupId>org.slf4j</groupId>
+    <artifactId>slf4j-api</artifactId>
+    <version>1.7.5</version>
+</dependency>
+<dependency>
+    <groupId>org.slf4j</groupId>
+    <artifactId>slf4j-simple</artifactId>
+    <version>1.6.4</version>
+</dependency>
+```
